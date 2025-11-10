@@ -1,0 +1,20 @@
+{
+  "simulate": true,
+  "concurrency": 10,
+  "max_retries_per_url": 3,
+  "retry_backoff_seconds": 1.5,
+  "timeout_seconds": 20,
+  "ignore_url_failures": true,
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+  ],
+  "proxies": [
+    // Optional HTTP proxies for rotation, e.g. "http://user:pass@host:port"
+  ],
+  "output": {
+    "basename": "zoominfo_companies",
+    "folder": "data"
+  }
+}
