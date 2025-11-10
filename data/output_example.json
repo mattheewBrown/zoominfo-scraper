@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.zoominfo.com/c/walmart-inc/155353090",
+    "id": "155353090",
+    "name": "Walmart",
+    "full_name": "Walmart Inc",
+    "description": "Walmart Inc. engages in retail, wholesale, and eCommerce operations worldwide.",
+    "revenue": 673819000.0,
+    "revenue_currency": "$",
+    "revenue_text": "$673.8 Billion",
+    "website": "//corporate.walmart.com",
+    "stock_symbol": "WMT",
+    "address": {
+      "street": "702 SW 8th St",
+      "city": "Bentonville",
+      "state": "Arkansas",
+      "country": "United States",
+      "zip": "72716"
+    },
+    "number_of_employees": "2100000",
+    "phone_number": "(479) 273-4000",
+    "founding_year": 1962,
+    "industries": [
+      "Department Stores, Shopping Centers & Superstores",
+      "Retail"
+    ],
+    "social_network_urls": [
+      { "social_network_type": "LINKED_IN", "social_network_url": "http://www.linkedin.com/company/walmart" },
+      { "social_network_type": "TWITTER", "social_network_url": "http://www.twitter.com/walmart" }
+    ]
+  }
+]
