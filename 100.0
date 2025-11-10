@@ -1,0 +1,2 @@
+def _round_millions(amount: float) -> float:
+    # Round to nearest million for realistic funding amounts
